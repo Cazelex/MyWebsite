@@ -13,3 +13,9 @@ p {
     font-size: 16px; 
     line-height: 1.5; 
 }
+
+#btnClick {
+    border-radius: 10px
+    border: solid red 1px
+    padding: 15px
+}
