@@ -1,0 +1,1 @@
+jakuuuuuu knows hes gays
